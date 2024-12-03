@@ -8,7 +8,7 @@
 
 ### 1. **Sign In Page**
 ![Sign In](./screenshots/SignIn.jpg)
-A simple and elegant registration form for new users.
+A simple and elegant login form for our users.
 
 ### 2. **Main Dashboard**
 ![Main Dashboard](./screenshots/Main.jpg)
