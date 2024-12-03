@@ -1,0 +1,5 @@
+EMAIL_USER="your-email@example.com"  # Replace with your email
+EMAIL_PASS="your-email-password"     # Replace with your email password
+DATABASE_URL="mysql://user:password@host:port/database"  # Replace with your database connection string
+JWT_SECRET="your-jwt-secret"         # Replace with a secure random string
+PORT=3000                            # Application port (default: 3000)
