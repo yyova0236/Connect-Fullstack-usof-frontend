@@ -39,7 +39,8 @@ Refer to the `package.json` file for the full list of dependencies.
 
 ---
 
-## How to Run Your Solution
+## How to Run My Project
+### Frontend
 
 1. **Clone the repository**:
    ```bash
@@ -59,3 +60,27 @@ Refer to the `package.json` file for the full list of dependencies.
    npm start
 
 5. **Access the app in your browser at http://localhost:3000**
+
+### Backend
+
+1. **Edit the .env file to match your environment setup.**:
+
+2. **Install backend dependencies:**:
+   ```bash
+   cd my-app
+
+3. **Install dependencies**:
+   ```bash
+   npm install
+
+4. **Navigate to the src directory**:
+
+   ```bash
+   cd src
+   
+
+5. **Start the backend server:**
+   ```bash
+   node server.js
+
+
