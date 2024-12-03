@@ -14,10 +14,6 @@ A simple and elegant login form for our users.
 ![Main Dashboard](./screenshots/Main.jpg)
 Overview of user posts and available actions.
 
-### 3. **Admin Panel**
-![Admin Panel](./screenshots/admin_panel.png)
-Tools for admins to manage users and content.
-
 ---
 
 ## Requirements and Dependencies
