@@ -43,11 +43,11 @@ Refer to the `package.json` file for the full list of dependencies.
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/username/my-app-frontend.git
+   git clone git@gitlab.ucode.world:connect-khpi/connect-fullstack-usof-frontend/yyova.git
 
 2. **Navigate to the project directory**:
    ```bash
-   cd my-app-frontend
+   cd my-app
 
 3. **Install dependencies**:
    ```bash
