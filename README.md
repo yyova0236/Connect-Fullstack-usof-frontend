@@ -6,16 +6,16 @@
 
 ## Screenshots
 
-### 1. **Sign Up Page**
-![Sign Up](./docs/screenshots/signup.png)
+### 1. **Sign In Page**
+![Sign In](./screenshots/SignIn.jpg)
 A simple and elegant registration form for new users.
 
 ### 2. **Main Dashboard**
-![Main Dashboard](./docs/screenshots/dashboard.png)
+![Main Dashboard](./screenshots/Main.jpg)
 Overview of user posts and available actions.
 
 ### 3. **Admin Panel**
-![Admin Panel](./docs/screenshots/admin_panel.png)
+![Admin Panel](./screenshots/admin_panel.png)
 Tools for admins to manage users and content.
 
 ---
